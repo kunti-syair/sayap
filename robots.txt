@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kunti-syair.github.io/sayap/sitemap.xml
